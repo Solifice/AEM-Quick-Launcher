@@ -11,3 +11,22 @@ People working on AEM typically use the AEM SDK JAR file locally for development
 
 ## Limitations
 - Since it's a batch file, it will only work on Windows systems.
+
+## Download
+The script can be downloaded by either cloning it or downloading it from the releases section.
+
+## Installation & Quick Start
+1. This script does not require any formal installation process.
+2. Feel free to copy and paste the batch script anywhere you'd like.
+3. Open the batch file using any text editor of your choice.
+4. Set the DEBUG_PORT and JAR_PATH. Optionally, set the JDK_PATH if using a ZIP distribution of the JDK. In my case, the DEBUG_PORT is 8000, the JAR_PATH is similar to "C:\aem-author-p4502.jar", and the JDK_PATH can be "C:\jdk\bin".
+5. Save the changes and close the file.
+6. Now, simply double-click the batch file, and you're all set!
+
+## Contributions
+- Report bugs, ask questions and suggest new features by creating a new issue.
+- Donate to [**Solifice**](https://linktr.ee/solifice).
+
+## Credits
+1. This script utilizes the Adobe Experience Manager (AEM) SDK for running AEM instances. We acknowledge and appreciate the functionality provided by AEM SDK. For more information about AEM, visit [Adobe's AEM website](https://business.adobe.com/in/products/experience-manager/adobe-experience-manager.html).
+2. This script is written in batch and utilizes batch scripting for automation. We acknowledge and appreciate the functionality provided by batch scripting.
