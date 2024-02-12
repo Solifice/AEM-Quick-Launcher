@@ -28,5 +28,5 @@ The script can be downloaded by either cloning it or downloading it from the rel
 - Donate to [**Solifice**](https://linktr.ee/solifice).
 
 ## Credits
-1. This script utilizes the Adobe Experience Manager (AEM) SDK for running AEM instances. We acknowledge and appreciate the functionality provided by AEM SDK. For more information about AEM, visit [Adobe's AEM website](https://business.adobe.com/in/products/experience-manager/adobe-experience-manager.html).
+1. This script utilizes the Adobe Experience Manager (AEM) SDK for running AEM instance. We acknowledge and appreciate the functionality provided by AEM SDK. For more information about AEM, visit [Adobe's AEM website](https://business.adobe.com/in/products/experience-manager/adobe-experience-manager.html).
 2. This script is written in batch and utilizes batch scripting for automation. We acknowledge and appreciate the functionality provided by batch scripting.
