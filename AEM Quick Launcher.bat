@@ -1,6 +1,7 @@
 @echo off
 REM Batch Script
 REM Script Name: AEM Quick Launcher
+REM Version: 1.0
 REM Author: Solifice
 REM Last Modified Date: 12-02-2024
 REM Description: Quick Launcher to start AEM in Debug mode or Normally
