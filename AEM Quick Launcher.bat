@@ -2,7 +2,7 @@
 REM Batch Script
 REM Script Name: AEM Quick Launcher
 REM Author: Solifice
-REM Last Modified Date: 21-05-2023
+REM Last Modified Date: 12-02-2024
 REM Description: Quick Launcher to start AEM in Debug mode or Normally
 
 setlocal enabledelayedexpansion
@@ -15,14 +15,14 @@ setlocal enabledelayedexpansion
 ::--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ::
 set "DEBUG_PORT=8000"
-set "JAR_PATH=C:\_MyData_\SoftwareinUse\Adobe Experience Manager\Amarr Sdk\Author\aem-author-p4502.jar"
+set "JAR_PATH=path\to\aem-author-p4502.jar"
 ::
 ::--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :: Advance setting for people with zip distribution of JDK
 :: leave the value for JDK_PATH empty if not required
 ::--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ::
-set "JDK_PATH=C:\_MyData_\SoftwareinUse\PCK\JDK\bin"
+set "JDK_PATH="
 ::
 ::--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
